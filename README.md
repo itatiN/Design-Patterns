@@ -1,8 +1,8 @@
 # Design-Patterns
-[English Version](#english)
+🇺🇸[English Version](#english)
 
-[Portuguese Version](#portuguese)
-## English
+🇧🇷[Portuguese Version](#portuguese)
+## 🇺🇸 English
 ### What are Design Patterns?
 Design patterns are a fundamental part of object-oriented programming that helps make code reusable and future-proof with minimal changes.
 
@@ -19,10 +19,10 @@ This will serve as a quick way for me to explain a concept to new friends in the
 
 It's worth mentioning that there will be a readme file in each folder to serve as documentation, which should make it easier for anyone viewing this repository to understand everything correctly.
 
-### Prerequisites
+### 📋 Prerequisites
 * [OpenJDK 17](https://openjdk.org/projects/jdk/17/) - The Java version used.
 
-## Portuguese
+## 🇧🇷 Portuguese
 ### O que são padrões de design?
 Os padrões de design são uma parte fundamental da programação orientada a objectos que ajuda a tornar o código reutilizável e preparado para o futuro com alterações mínimas.
 
@@ -39,5 +39,5 @@ Isto servirá como uma forma rápida de eu explicar um conceito a novos amigos d
 
 Vale a pena mencionar que haverá um ficheiro readme em cada pasta para servir de documentação, o que deverá facilitar a compreensão correcta de tudo por parte de quem visualizar este repositório.
 
-### Pré-requisitos
+### 📋 Pré-requisitos
 * [OpenJDK 17](https://openjdk.org/projects/jdk/17/) - A versão do Java utilizada.
