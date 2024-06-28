@@ -1,7 +1,7 @@
 # Design-Patterns
-🇺🇸[English Version](#english)
+🇺🇸[English Version](#🇺🇸english)
 
-🇧🇷[Portuguese Version](#portuguese)
+🇧🇷[Portuguese Version](#🇧🇷portuguese)
 ## 🇺🇸 English
 ### What are Design Patterns?
 Design patterns are a fundamental part of object-oriented programming that helps make code reusable and future-proof with minimal changes.
