@@ -1,5 +1,5 @@
 # Design-Patterns
-[English Version](#english)
+[English Version](#English)
 
 [Portuguese Version](#portuguese)
 ## English
@@ -19,7 +19,7 @@ This will serve as a quick way for me to explain a concept to new friends in the
 
 It's worth mentioning that there will be a readme file in each folder to serve as documentation, which should make it easier for anyone viewing this repository to understand everything correctly.
 
-### Prerequisites
+### 📋 Prerequisites
 * [OpenJDK 17](https://openjdk.org/projects/jdk/17/) - The Java version used.
 
 ## Portuguese
@@ -35,9 +35,9 @@ Existem quatro elementos essenciais para os padrões de design:
 ### Qual é o objetivo deste projeto?
 O objetivo deste projeto é implementar cada padrão de design descrito no livro GoF através de pequenos projectos.
 
-Isto servirá como uma forma rápida de eu explicar um conceito a novos amigos da área e permitir-me-á praticar os padrões em Java.
+Isto servirá como uma forma rápida de eu explicar um conceito a novos amigos da área e vai me permitir praticar os padrões em Java.
 
 Vale a pena mencionar que haverá um ficheiro readme em cada pasta para servir de documentação, o que deverá facilitar a compreensão correcta de tudo por parte de quem visualizar este repositório.
 
-### Pré-requisitos
+### 📋 Pré-requisitos
 * [OpenJDK 17](https://openjdk.org/projects/jdk/17/) - A versão do Java utilizada.
