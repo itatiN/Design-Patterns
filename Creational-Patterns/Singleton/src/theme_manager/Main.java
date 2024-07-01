@@ -1,3 +1,5 @@
+package theme_manager;
+
 public class Main {
     public static void main(String[] args) {
         // Here it would create an instance or take the instance already created

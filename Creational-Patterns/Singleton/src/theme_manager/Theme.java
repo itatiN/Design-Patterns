@@ -1,3 +1,5 @@
+package theme_manager;
+
 public class Theme{
     private String backgroundColor;
     private String fontColor;

@@ -31,7 +31,7 @@ Características principais do Singleton:
 *   **Controle de instância**: A criação da instância é controlada de forma a garantir que apenas uma instância seja criada.
 Vantagens:
 *   **Controle de acesso**: Garante o controle sobre como e quando a instância é criada.
-*   **Consistência: Mantém** a consistência ao assegurar que apenas uma instância existe.
+*   **Consistência**: Mantém a consistência ao assegurar que apenas uma instância existe.
 *   **Facilidade de acesso**: Fornece um ponto de acesso global à instância.
 Desvantagens:
 *   **Dificuldade em testes**: Pode ser difícil de testar devido à dependência global.

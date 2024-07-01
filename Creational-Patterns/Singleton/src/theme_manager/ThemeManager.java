@@ -1,3 +1,5 @@
+package theme_manager;
+
 public class ThemeManager{
     private static ThemeManager instance;
     private Theme currentTheme;
