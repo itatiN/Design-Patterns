@@ -19,6 +19,9 @@ When to use:
 *   **Ease of Switching Implementations**: When you want to easily switch between different product families without changing the customer's code.
 *   **Segregation of responsibility**: When you want to delegate responsibility for creating products to a specific class, keeping the client code cleaner and focused on business logic.
 *   **Maintenance and Extensibility**: When you anticipate that new product families may be added in the future and want to ensure that this can be done without major changes to the existing code.
+About the project:
+I will be making a Multi-Gateway Payment processing system.
+The advantage of using this Design Pattern is that it facilitates new integrations with other payment methods and allows for easy maintainability.
 
 ## Portuguese
 O padrão de projeto Abstract Factory é um padrão de criação que fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas. Em outras palavras, ele permite que você produza diferentes tipos de objetos relacionados sem conhecer suas classes exatas no momento da criação.
@@ -37,4 +40,6 @@ Quando usar:
 *   **Facilidade de Troca de Implementações**: Quando você quer trocar facilmente entre diferentes famílias de produtos sem alterar o código do cliente.
 *   **Segregação de Responsabilidades**:Quando você deseja delegar a responsabilidade da criação dos produtos a uma classe específica, mantendo o código do cliente mais limpo e focado na lógica de negócio.
 *   **Manutenção e Extensibilidade**:Quando você prevê que novas famílias de produtos poderão ser adicionadas no futuro e quer garantir que isso possa ser feito sem grandes mudanças no código existente.
-
+Sobre o projeto:
+Vou criar um sistema de processamento de pagamentos Multi-Gateway.
+A vantagem de usar este Design Pattern é que ele facilita novas integrações com outros métodos de pagamento e permite uma fácil manutenção.
