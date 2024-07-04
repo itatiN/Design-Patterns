@@ -22,6 +22,7 @@ When to use:
 About the project:
 I will be making a Multi-Gateway Payment processing system.
 The advantage of using this Design Pattern is that it facilitates new integrations with other payment methods and allows for easy maintainability.
+![Abstract-Factory-English](/assets/Abstract-Factory-English.png)
 
 ## Portuguese
 O padrão de projeto Abstract Factory é um padrão de criação que fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas. Em outras palavras, ele permite que você produza diferentes tipos de objetos relacionados sem conhecer suas classes exatas no momento da criação.
@@ -43,3 +44,4 @@ Quando usar:
 Sobre o projeto:
 Vou criar um sistema de processamento de pagamentos Multi-Gateway.
 A vantagem de usar este Design Pattern é que ele facilita novas integrações com outros métodos de pagamento e permite uma fácil manutenção.
+![Abstract-Factory-Portuguese](/assets/Abstract-Factory-Portuguese.png)
