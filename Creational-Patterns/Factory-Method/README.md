@@ -22,7 +22,7 @@ The Factory Method is particularly useful in scenarios where:
 About the project:
 I will make a Notification System with different notification types.
 This will make it easier to integrate with possible new notification methods.
-[Factory-Method-English](/assets/Factory-Method-English.png)
+![Factory-Method-English](/assets/Factory-Method-English.png)
 
 ## Portuguese
 Padrão criacional que fornece uma interface para criar objectos numa superclasse, mas permite que as subclasses alterem o tipo de objectos que serão criados.
