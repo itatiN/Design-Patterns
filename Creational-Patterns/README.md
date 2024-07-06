@@ -1,4 +1,4 @@
-# Singleton
+# Creational-Patterns
 [English Version](#english)
 
 [Portuguese Version](#portuguese) 
